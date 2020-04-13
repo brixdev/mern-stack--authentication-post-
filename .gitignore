@@ -1,2 +1,4 @@
 node_modules/
 package-lock.json
+id_rsa_2
+id_rsa_2.pub
